@@ -1,0 +1,59 @@
+*{
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+}
+
+
+
+
+body{
+background-color: gray;
+
+
+}
+
+nav a {
+    text-align:right;
+    float:right;
+    margin: 10px;
+    color:green;
+    font-size: 25px;
+}
+
+
+a :hover {
+    color:yellow;
+}
+
+h1 {
+    text-align: center;
+    color:redSS;
+    font-size: 35px;
+    font-style: italic;
+    border: 25px;
+}
+
+p{
+    text-align:center;
+    color:indigo;
+    font-size: 24px;
+    font-style:oblique;
+    border: 28px solid crimson;
+    width:80%;
+}
+footer {
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width:100%;
+    background-color: lightslategray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+
